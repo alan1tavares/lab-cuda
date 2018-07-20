@@ -1,0 +1,10 @@
+﻿  reference_calc.cpp
+c:\users\alan1\git\lab-cuda\projeto 1\reference_calc.cpp(13): warning C4244: '=': conversão de 'float' para 'unsigned char', possível perda de dados
+  main.cpp
+  HW1.cpp
+c:\users\alan1\git\lab-cuda\projeto 1\hw1.cpp(65): warning C4267: 'argumento': conversão de 'size_t' para 'int', possível perda de dados
+  compare.cpp
+  Gerando Código...
+     Criando biblioteca C:\Users\alan1\git\lab-cuda\Projeto 1\x64\Debug\Projeto 1.lib e objeto C:\Users\alan1\git\lab-cuda\Projeto 1\x64\Debug\Projeto 1.exp
+  Projeto 1.vcxproj -> C:\Users\alan1\git\lab-cuda\Projeto 1\x64\Debug\Projeto 1.exe
+  Projeto 1.vcxproj -> C:\Users\alan1\git\lab-cuda\Projeto 1\x64\Debug\Projeto 1.pdb (Full PDB)
