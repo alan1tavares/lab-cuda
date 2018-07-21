@@ -4,7 +4,7 @@ Projeto proposto no curso de cuda.
 
 ## Objetivo
 
-Elevar ao cubo cada elemento de um *array* em paralelo.
+Escrever um programa em CUDA que eleve ao cubo cada elemento de um *array* de forma paralela.
 
 ### Entrada
 
