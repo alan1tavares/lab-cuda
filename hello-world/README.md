@@ -2,4 +2,4 @@
 
 ## Objetivo
 
-Escrever o hello world em CUDA.
+Hello world em CUDA.
